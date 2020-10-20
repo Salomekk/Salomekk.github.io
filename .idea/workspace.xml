@@ -19,10 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24352ca3-4d6d-4b27-8fc6-ad7a2214c655" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+    <list default="true" id="24352ca3-4d6d-4b27-8fc6-ad7a2214c655" name="Default Changelist" comment="add commite">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,8 +71,20 @@
       <workItem from="1601537057493" duration="2931000" />
       <workItem from="1601540851703" duration="1005000" />
       <workItem from="1602136563838" duration="1439000" />
-      <workItem from="1602236894250" duration="15516000" />
+      <workItem from="1602236894250" duration="16853000" />
+      <workItem from="1602339400483" duration="6000" />
+      <workItem from="1602669602754" duration="9685000" />
+      <workItem from="1602741826255" duration="607000" />
+      <workItem from="1603198736654" duration="2392000" />
     </task>
+    <task id="LOCAL-00001" summary="add commite">
+      <created>1602255723783</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602255723783</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +100,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add commite" />
+    <option name="LAST_COMMIT_MESSAGE" value="add commite" />
   </component>
   <component name="WindowStateProjectService">
     <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1602246155312">
@@ -102,9 +119,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="440" y="46" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1601541238969" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1601541204614">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1602255799911">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601541204614" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602255799911" />
   </component>
 </project>
