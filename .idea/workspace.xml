@@ -21,8 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="24352ca3-4d6d-4b27-8fc6-ad7a2214c655" name="Default Changelist" comment="add commite">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +74,9 @@
       <workItem from="1602339400483" duration="6000" />
       <workItem from="1602669602754" duration="9685000" />
       <workItem from="1602741826255" duration="607000" />
-      <workItem from="1603198736654" duration="2392000" />
+      <workItem from="1603198736654" duration="3015000" />
+      <workItem from="1603283942246" duration="1421000" />
+      <workItem from="1603303532130" duration="831000" />
     </task>
     <task id="LOCAL-00001" summary="add commite">
       <created>1602255723783</created>
@@ -84,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602255723783</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add commite">
+      <created>1603201902958</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603201902958</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,9 +127,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="440" y="46" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1601541238969" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1602255799911">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1603201921474">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602255799911" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1603201921474" />
   </component>
 </project>
