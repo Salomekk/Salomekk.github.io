@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24352ca3-4d6d-4b27-8fc6-ad7a2214c655" name="Default Changelist" comment="add commite">
+      <change afterPath="$PROJECT_DIR$/class2/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class2/styles2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +56,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\WebstormProjects\class1\class2" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Desktop" />
     </key>
@@ -76,7 +80,10 @@
       <workItem from="1602741826255" duration="607000" />
       <workItem from="1603198736654" duration="3015000" />
       <workItem from="1603283942246" duration="1421000" />
-      <workItem from="1603303532130" duration="831000" />
+      <workItem from="1603303532130" duration="1479000" />
+      <workItem from="1603346528670" duration="2773000" />
+      <workItem from="1603471605688" duration="8863000" />
+      <workItem from="1603528179480" duration="19088000" />
     </task>
     <task id="LOCAL-00001" summary="add commite">
       <created>1602255723783</created>
@@ -92,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603201902958</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add commite">
+      <created>1603304409786</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603304409786</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,9 +141,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="440" y="46" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1601541238969" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1603201921474">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1603304422144">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1603201921474" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1603304422144" />
   </component>
 </project>
