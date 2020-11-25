@@ -1,0 +1,16 @@
+.dropdown-list {
+    display: none;
+    flex-direction: column;
+}
+
+.dropdown-item {
+    cursor: pointer;
+}
+
+.dropdown-item:hover {
+    background-color: #daa9f5;
+}
+
+.col {
+    display: none;
+}
